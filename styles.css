@@ -1,12 +1,13 @@
 body { 
     color: white;
-    background-color: black;
-}
+    body {background-color: coral;}
+
+
 
 h1 {
     font-size: 20px;
-}
 
+border-style dotted}
 
 p {
     font-size: 12px;
