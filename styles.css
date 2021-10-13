@@ -49,4 +49,7 @@ nav{background-color: rgb(167, 102, 38);
 }
 
 section{background-color: rgb(4, 134, 63);
+    float:right;
+    width: 80%;
+    
 }
