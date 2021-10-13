@@ -1,6 +1,6 @@
 body { 
     color: white;
-     background-color:black ;
+     background-color:rgb(49, 59, 58) ;
      width: 90%;
 margin-left: auto;
 margin-right: auto;
@@ -13,19 +13,27 @@ h1 {
     font-size: 20px;
 
 border-style:dotted;
-border-color:green;
+border-color:rgb(206, 196, 62);
 }
+nav {
+    float: left;
+  }
+
+
+  
+
+
 
 p {
     font-size: 12px;
-    color: green;
+    color: rgb(142, 148, 142);
 background-color: indigo;
 border-radius: 25px;
 }
 
 .reunus{
-    color: grey;
-    background-color: whitesmoke;
+    color: rgb(36, 148, 79);
+    background-color: rgb(8, 114, 64);
     border-style: dotted;
     border-width: 2px;
     width: 100px;
@@ -35,10 +43,10 @@ ul{list-style-type: square;}
 ol {
     list-style-type: lower-latin;
 }
-header{background-color: palevioletred;
+header{background-color: rgb(13, 216, 155);
 }
-nav{background-color: peru;
+nav{background-color: rgb(167, 102, 38);
 }
 
-section{background-color: powderblue;
+section{background-color: rgb(4, 134, 63);
 }
