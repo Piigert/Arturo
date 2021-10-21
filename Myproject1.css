@@ -1,1 +1,10 @@
-mkbhgyftddguio
+img {
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    padding: 60px;
+    width: 250px;
+  }
+  
+ header{
+  text-align: center;
+} 
