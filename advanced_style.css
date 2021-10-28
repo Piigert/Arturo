@@ -1,1 +1,22 @@
-ZDFVVNLKSCDIJLJSDVHIDHKVHNVBBJCCGDYFZGHRYBKF
+
+
+#example1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+  }
+
+H1{
+    text-shadow: 2px 2px coral;
+
+}
+ /* unvisited link */
+ a:link {
+    color: rgb(83, 18, 18);
+  }
+  /* mouse over link */
+  a:hover {
+    color: #8ebf42;
+  }
+
+  @media screen and (max-width: 800px) { body { background-color: black; color: cyan; }}
