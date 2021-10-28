@@ -1,0 +1,18 @@
+table, td, th{
+    border: 1px solid;
+    padding: 5px;
+
+}
+body {
+    color: darkorchid;
+    background-color: darkorange;
+}
+
+table, th, td {
+    border: 1px solid black;
+ }
+ input {
+    width: 100%;
+  }
+ 
+  
