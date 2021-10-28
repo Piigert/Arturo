@@ -1,1 +1,9 @@
-eRFVEAFV
+table, td, th{
+    border: 1px solid;
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    border: none;
+}
